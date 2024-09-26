@@ -4,6 +4,11 @@
 
 const uniqueNumbers = new Set();
 
-// Your code here
+uniqueNumbers.add(10)
+uniqueNumbers.add(20)
+uniqueNumbers.add(30)
+uniqueNumbers.add(30)
+uniqueNumbers.add(20)
+uniqueNumbers.add(10)
 
 console.log(uniqueNumbers);
